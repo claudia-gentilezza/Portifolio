@@ -1,2 +1,2 @@
 # Portifolio
-Bio/Portifolio
+Portifolio
